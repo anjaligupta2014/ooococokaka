@@ -1,0 +1,273 @@
+[
+  {
+    "id": 1,
+    "juice_name": "Pulpy Coconut",
+    "juice_price": 80,
+    "juice_description": "Pulpy Tender Coconut typically contains the following ingredients: soft and jelly-like coconut flesh, often blended or included in pieces for added texture; the naturally refreshing liquid found inside green coconuts; and sometimes, additional natural flavors are used to enrich the coconut taste.",
+    "juice_nutrition": {
+      "Calories": "50 kcal (per 100 ml)",
+      "Carbohydrates": "12g",
+      "Fat": "0.4g",
+      "Protein": "0.8g",
+      "Dietary Fiber": "1g",
+      "Potassium": "200 mg",
+      "Sodium": "15 mg"
+    }
+  },
+
+  {
+    "id": 2,
+    "juice_name": "Pulpy Coco Mango",
+    "juice_price": 75,
+    "juice_description": "This tropical favorite combines the smooth hydration of tender coconut water with the rich, sweet flavor of ripe mangoes. The pulpy texture of the coconut pairs perfectly with the mango's juicy sweetness, making it a refreshing and satisfying drink. Coconut water replenishes essential electrolytes, while mangoes are packed with vitamins A and C, adding a healthy and delicious punch to this blend. This drink is perfect for cooling down on a hot day or enjoying as a midday refresher.",
+    "juice_nutrition": {
+      "Calories": "45 kcal (per 100 ml)",
+      "Carbohydrates": "11g",
+      "Fat": "0.1g",
+      "Protein": "0.6g",
+      "Dietary Fiber": "1g",
+      "Potassium": "180 mg",
+      "Sodium": "10 mg"
+    }
+  },
+  {
+    "id": 3,
+    "juice_name": "Pulpy Coco Pineapple",
+    "juice_price": 80,
+    "juice_description": "Pulpy Coco Pineapple is a tangy and sweet combination of fresh pineapple juice with tender coconut water. The citrusy zing of pineapple, known for its high vitamin C content and digestive enzymes, creates a balanced contrast with the natural sweetness of coconut water. Together, they create a rejuvenating beverage that helps boost hydration, supports digestion, and offers a tropical escape with every sip. This blend is both revitalizing and flavorful, making it a popular choice for those seeking a healthy refreshment.",
+    "juice_nutrition": {
+      "Calories": "45 kcal (per 100 ml)",
+      "Carbohydrates": "11g",
+      "Fat": "0.1g",
+      "Protein": "0.6g",
+      "Dietary Fiber": "1g",
+      "Potassium": "180 mg",
+      "Sodium": "10 mg"
+    }
+  },
+  {
+    "id": 4,
+    "juice_name": "Pulpy Coco Sapodilla",
+    "juice_price": 75,
+    "juice_description": "Sapodilla, also known as chikoo, brings its smooth, caramel-like flavor to this unique beverage. Paired with the soft pulp of tender coconut, Pulpy Coco Sapodilla offers a creamy and indulgent experience. Sapodilla is a rich source of dietary fiber, vitamins, and antioxidants, and when combined with hydrating coconut water, this drink becomes a nutritious, tropical treat. Its velvety texture and sweet taste make it a luxurious option for those who enjoy rich, natural flavors.",
+    "juice_nutrition": {
+      "Calories": "60 kcal (per 100 ml)",
+      "Carbohydrates": "15g",
+      "Fat": "0.2g",
+      "Protein": " 0.5g",
+      "Dietary Fiber": "1.5g",
+      "Potassium": "250 mg",
+      "Sodium": "20 mg"
+    }
+  },
+  {
+    "id": 5,
+    "juice_name": "Pulpy Coco Pomegranate",
+    "juice_price": 80,
+    "juice_description": "A burst of antioxidants comes with every sip of Pulpy Coco Pomegranate. This refreshing drink blends the crisp, tart notes of pomegranate juice with tender coconut flesh and water. Pomegranates are well-known for their high content of antioxidants, which help support heart health and combat inflammation. When mixed with the hydrating properties of coconut water, this drink provides both a nutritious boost and a satisfying, tangy flavor.",
+    "juice_nutrition": {
+      "Calories": "70 kcal (per 100 ml)",
+      "Carbohydrates": "16g",
+      "Fat": "0.5g",
+      "Protein": "0.7g",
+      "Dietary Fiber": "1g",
+      "Potassium": "200 mg",
+      "Sodium": "15 mg"
+    }
+  },
+  {
+    "id": 6,
+    "juice_name": "Pulpy Coco Jackfruit",
+    "juice_price": 80,
+    "juice_description": "Pulpy Coco Jackfruit offers a unique tropical experience, blending the sweet, fragrant flavor of jackfruit with the subtlety of coconut water. Jackfruit is a powerhouse of nutrients, rich in vitamins, minerals, and antioxidants. This blend’s soft coconut flesh adds texture, while coconut water ensures hydration. The result is an exotic and delightful drink that provides natural sweetness and a rich, fruity aroma.",
+    "juice_nutrition": {
+      "Calories": "65 kcal (per 100 ml)",
+      "Carbohydrates": "14g",
+      "Fat": "0.4g",
+      "Protein": "1g",
+      "Dietary Fiber": "1.2g",
+      "Potassium": "220 mg",
+      "Sodium": "18 mg"
+    }
+  },
+  {
+    "id": 7,
+    "juice_name": "Pulpy Coco Grapes",
+    "juice_price": 80,
+    "juice_description": "Grapes bring their juicy sweetness to this hydrating beverage, offering a delightful balance of flavor with tender coconut water. Known for their antioxidant properties, especially resveratrol, grapes add a boost of heart-healthy benefits to the drink. Pulpy Coco Grapes combines the light, refreshing feel of coconut with the naturally sweet taste of grapes, making it an easy-to-enjoy, nutritious treat.",
+    "juice_nutrition": {
+      "Calories": "55 kcal (per 100 ml)",
+      "Carbohydrates": "13g",
+      "Fat": "0.3g",
+      "Protein": "0.6g",
+      "Dietary Fiber": "1g",
+      "Potassium": "190 mg",
+      "Sodium": "12 mg"
+    }
+  },
+  {
+    "id": 8,
+    "juice_name": "Pulpy Coco Avocado",
+    "juice_price": 80,
+    "juice_description": "This rich and creamy beverage combines the nutrient-packed avocado with the refreshing qualities of coconut water. Avocados are famous for their healthy fats, fiber, and vitamin E content, making Pulpy Coco Avocado a nourishing choice. The tender coconut pulp adds an extra layer of smooth texture, while the mild flavor of avocado makes it a satisfying drink. It's an ideal option for those looking for something both filling and hydrating.",
+    "juice_nutrition": {
+      "Calories": "80 kcal (per 100 ml)",
+      "Carbohydrates": "9g",
+      "Fat": "7g",
+      "Protein": "1g",
+      "Dietary Fiber": "2g",
+      "Potassium": "300 mg",
+      "Sodium": "5 mg"
+    }
+  },
+  {
+    "id": 9,
+    "juice_name": "Pulpy Coco Guava",
+    "juice_price": 75,
+    "juice_description": "Pulpy Coco Guava offers a sweet and tangy twist with the addition of guava to tender coconut water. Guavas are loaded with vitamin C, antioxidants, and dietary fiber, making this beverage a perfect combination of taste and health benefits. The tropical flavor of guava pairs well with the soft coconut pulp, providing a refreshing and wholesome drink that’s great for boosting immunity and digestion.",
+    "juice_nutrition": {
+      "Calories": "50 kcal (per 100 ml)",
+      "Carbohydrates": "11g",
+      "Fat": "0.2g",
+      "Protein": "1g",
+      "Dietary Fiber": "1.5g",
+      "Potassium": "220 mg",
+      "Sodium": "10 mg"
+    }
+  },
+  {
+    "id": 10,
+    "juice_name": "Pulpy Coco Dragonfruit",
+    "juice_price": 80,
+    "juice_description": "The vibrant and exotic dragonfruit meets the smoothness of coconut water in this refreshing blend. Dragonfruit is rich in antioxidants, vitamin C, and fiber, which contribute to its superfood status. Paired with hydrating coconut water and pulp, this drink offers a light, tropical flavor that's both nourishing and satisfying. Its striking pink color makes it as visually appealing as it is tasty.",
+    "juice_nutrition": {
+      "Calories": "60 kcal (per 100 ml)",
+      "Carbohydrates": "14g",
+      "Fat": "0.4g",
+      "Protein": "1g",
+      "Dietary Fiber": "1g",
+      "Potassium": "210 mg",
+      "Sodium": " 10 mg"
+    }
+  },
+  {
+    "id": 11,
+    "juice_name": "Pulpy Coco Dates",
+    "juice_price": 75,
+    "juice_description": "A natural energy booster, Pulpy Coco Dates combines the natural sweetness of dates with the hydration of coconut water. Dates are known for their high fiber and potassium content, making them excellent for supporting digestive health and maintaining electrolyte balance. This drink is rich and slightly caramel-like, offering a luxurious and nourishing beverage option.",
+    "juice_nutrition": {
+      "Calories": "90 kcal (per 100 ml)",
+      "Carbohydrates": "20g",
+      "Fat": "0.5g",
+      "Protein": "1g",
+      "Dietary Fiber": "3g",
+      "Potassium": "250 mg",
+      "Sodium": "15 mg"
+    }
+  },
+  {
+    "id": 12,
+    "juice_name": "Pulpy Coco Apple",
+    "juice_price": 80,
+    "juice_description": "Apple, also known as custard apple, brings its sweet, creamy flavor to this coconut-based drink. The rich texture of apple pulp blends perfectly with tender coconut, creating a smooth and indulgent drink. Apples are a great source of vitamins and minerals, making this beverage both delicious and nutritious. It's a tropical delight that combines exotic flavors with refreshing hydration.",
+    "juice_nutrition": {
+      "Calories": "65 kcal (per 100 ml)",
+      "Carbohydrates": "16g",
+      "Fat": "0.3g",
+      "Protein": "0.8g",
+      "Dietary Fiber": "1.5g",
+      "Potassium": "230 mg",
+      "Sodium": "12 mg"
+    }
+  },
+  {
+    "id": 13,
+    "juice_name": "Pulpy Coco Strawberry",
+    "juice_price": 80,
+    "juice_description": "A burst of bright, sweet strawberries meets the smooth texture of coconut water in this delightful blend. Strawberries, rich in vitamin C and antioxidants, add a refreshing, fruity flavor to the drink. Combined with tender coconut flesh, Pulpy Coco Strawberry is light, hydrating, and perfect for a refreshing summer day.",
+    "juice_nutrition": {
+      "Calories": "50 kcal (per 100 ml)",
+      "Carbohydrates": "12g",
+      "Fat": "0.2g",
+      "Protein": "0.5g",
+      "Dietary Fiber": "1g",
+      "Potassium": "180 mg",
+      "Sodium": "10 mg"
+    }
+  },
+  {
+    "id": 14,
+    "juice_name": " Pulpy Coco Butterscotch",
+    "juice_price": 80,
+    "juice_description": "A decadent combination of smooth coconut water and rich butterscotch flavor, this drink offers a dessert-like experience in a glass. Coco Butterscotch is creamy, sweet, and indulgent, making it a treat for those with a sweet tooth. The natural hydration from coconut water balances the sweetness, creating a satisfying and refreshing drink.",
+    "juice_nutrition": {
+      "Calories": "75 kcal (per 100 ml)",
+      "Carbohydrates": "18g",
+      "Fat": "0.4g",
+      "Protein": "1g",
+      "Dietary Fiber": "0.5g",
+      "Potassium": "190 mg",
+      "Sodium": "15 mg"
+    }
+  },
+  {
+    "id": 15,
+    "juice_name": "Puply Coco Chocolate",
+    "juice_price": 75,
+    "juice_description": "A luscious fusion of rich chocolate and smooth coconut, this drink is perfect for chocolate lovers. Coco Chocolate combines the natural sweetness of coconut water with the deep, indulgent flavor of cocoa. It's a creamy and satisfying treat, offering hydration with a touch of decadence.",
+    "juice_nutrition": {
+      "Calories": "80 kcal (per 100 ml)",
+      "Carbohydrates": "20g",
+      "Fat": "4g",
+      "Protein": "1g",
+      "Dietary Fiber": "0.8g",
+      "Potassium": "220 mg",
+      "Sodium": "18 mg"
+    }
+  },
+  {
+    "id": 16,
+    "juice_name": "Puply Coco Java plum",
+    "juice_price": 100,
+    "juice_description": "The tart and tangy java plum, also known as jamun, is a perfect match for the hydrating properties of coconut water. Java plums are known for their high antioxidant content and are traditionally used in Ayurvedic medicine to support digestion and blood levels. This drink offers a unique, tangy flavor that’s both refreshing and nutritious.",
+    "juice_nutrition": {
+      "Calories": "70 kcal (per 100 ml)",
+      "Carbohydrates": "16g",
+      "Fat": "0.3g",
+      "Protein": "0.7g",
+      "Dietary Fiber": "1g",
+      "Potassium": "200 mg",
+      "Sodium": "12 mg"
+    }
+  },
+  {
+    "id": 17,
+    "juice_name": "Puply Coco Lychee",
+    "juice_price": 100,
+    "juice_description": "A refreshing blend of juicy lychee and coconut water, this drink is light, sweet, and hydrating. Lychees are rich in vitamin C and antioxidants, making them an excellent addition to tender coconut. Coco Lychee is a tropical treat that’s perfect for enjoying on a hot day.",
+    "juice_nutrition": {
+      "Calories": "60 kcal (per 100 ml)",
+      "Carbohydrates": "14g",
+      "Fat": "0.2g",
+      "Protein": "0.5g",
+      "Dietary Fiber": "1.5g",
+      "Potassium": "210 mg",
+      "Sodium": "10 mg"
+    }
+  },
+  {
+    "id": 18,
+    "juice_name": "Pulpy Coco Mix",
+    "juice_price": 80,
+    "juice_description": "A delicious medley of tropical fruits, Pulpy Coco Mix brings together a variety of flavors with the hydrating qualities of coconut water. This vibrant drink offers a burst of fruity freshness with every sip, combining multiple nutrient-rich fruits for a balanced and refreshing experience.",
+    "juice_nutrition": {
+      "Calories": "75 kcal (per 100 ml)",
+      "Carbohydrates": "17g",
+      "Fat": "0.3g",
+      "Protein": "1g",
+      "Dietary Fiber": "1g",
+      "Potassium": "230 mg",
+      "Sodium": "15 mg"
+    }
+  }
+]
